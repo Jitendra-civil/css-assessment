@@ -68,6 +68,11 @@ h3{
     font-size: 15px;
     color: rgb(236, 24, 24);
 }
+.subtitle2{
+    text-align: center;
+    font-size: 18px;
+    color: rgb(236, 24, 24);
+}
 hr{
     text-decoration:dotted;
 }
